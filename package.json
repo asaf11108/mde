@@ -53,7 +53,7 @@
     "@angular/material": "^12.2.13",
     "@angular/platform-browser": "^12.2.16",
     "@angular/platform-browser-dynamic": "^12.2.16",
-    "@angular/router": "^12.2.16",
+    "@angular/router": "^14.0.4",
     "core-js": "^2.6.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
